@@ -2,7 +2,7 @@
 
 Learn some common layout schemes with CSS
 
-+ [*没有布局*](http://imooldy.com/learning-css-layout/index.html)
++ [*没有布局*](http://imooldy.com/learning-css-layout/index.html){:target="_blank"}
 + [*display属性*](http://imooldy.com/learning-css-layout/display.html)
 + [*margin-auto*](http://imooldy.com/learning-css-layout/margin-atuo.html)
 + [*max-width*](http://imooldy.com/learning-css-layout/max-width.html)
