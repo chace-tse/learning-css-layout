@@ -2,7 +2,7 @@
 
 Learn some common layout schemes with CSS
 
-+ <a href="http://imooldy.com/learning-css-layout/index.html" target="_blank">没有布局</a>
++ [*没有布局*](http://imooldy.com/learning-css-layout/index.html){:target="_blank"}
 <!-- 
 + [*没有布局*](http://imooldy.com/learning-css-layout/index.html)
 + [*display属性*](http://imooldy.com/learning-css-layout/display.html)
